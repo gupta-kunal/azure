@@ -1,0 +1,7 @@
+C:\Users\Kunal\Desktop\LTI\DOT NET\Day19\Start Page Solution\Start Page\bin\Debug\Start Page.exe.config
+C:\Users\Kunal\Desktop\LTI\DOT NET\Day19\Start Page Solution\Start Page\bin\Debug\Start Page.exe
+C:\Users\Kunal\Desktop\LTI\DOT NET\Day19\Start Page Solution\Start Page\bin\Debug\Start Page.pdb
+C:\Users\Kunal\Desktop\LTI\DOT NET\Day19\Start Page Solution\Start Page\obj\Debug\Start Page.csprojAssemblyReference.cache
+C:\Users\Kunal\Desktop\LTI\DOT NET\Day19\Start Page Solution\Start Page\obj\Debug\Start Page.csproj.CoreCompileInputs.cache
+C:\Users\Kunal\Desktop\LTI\DOT NET\Day19\Start Page Solution\Start Page\obj\Debug\Start Page.exe
+C:\Users\Kunal\Desktop\LTI\DOT NET\Day19\Start Page Solution\Start Page\obj\Debug\Start Page.pdb
